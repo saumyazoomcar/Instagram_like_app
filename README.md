@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Overview
+This is a web application to clone some basic features of existing app Instagram.
+It is made using ROR framework and suffices following requirements:
 
-Things you may want to cover:
+Log In/Sign-up
+User creates an account with an e-mail address and password.
+User can log-in from their existing account.
+User can keep their account public/private.
 
-* Ruby version
+Photo
+User can upload photos(jpeg/png files)  but only one photo at once.
+User can see photos uploaded by other users.
+User can edit or delete their uploaded photos.
 
-* System dependencies
+Follow/unfollow
+User can follow people
+User can see the list of people they follow
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
