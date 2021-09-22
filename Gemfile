@@ -27,7 +27,7 @@ gem 'devise'
 gem 'carrierwave'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'mini_magick'
-gem 'font-awesome-sass', '~> 4.7.0'
+gem "font-awesome-rails"
 gem 'fog'
 
 # Reduces boot times through caching; required in config/boot.rb
